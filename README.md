@@ -8,3 +8,5 @@ Alteração no server 1
 
 alteração no master
 alteração no my_branch depois do branch
+alteração no master depois do branch
+
